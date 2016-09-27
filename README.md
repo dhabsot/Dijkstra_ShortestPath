@@ -1,4 +1,5 @@
-This program acquires the graph from the file "input_centrali.txt" in this form:
+This program, given a directed graph, can calculate the shortest path between two nodes and the average distance between all nodes.
+It acquires the graph from the file "input_centrali.txt" like this:
 
 -Total number of nodes-
 
