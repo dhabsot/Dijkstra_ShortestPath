@@ -1,4 +1,4 @@
-This program acquires from the file "input_centrali" a graph in this form:
+This program acquires the graph from the file "input_centrali.txt" in this form:
 
 -Total number of nodes-
 
